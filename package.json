@@ -1,6 +1,6 @@
 {
   "name": "krema-dashboard",
-  "description": "Krema CRM V2",
+ "description": "Krema CRM V3",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
