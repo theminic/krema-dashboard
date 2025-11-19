@@ -1,5 +1,6 @@
 {
   "name": "krema-dashboard",
+  "description": "CRM za Krema.ba",
   "version": "1.0.0",
   "scripts": {
     "dev": "vite",
@@ -16,3 +17,4 @@
     "vite": "^4.0.0"
   }
 }
+
